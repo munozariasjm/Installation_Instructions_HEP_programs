@@ -38,7 +38,7 @@ Thus, we beguin by installing the correct version via the pre-compiled binaries 
    ```bash
    sudo apt-get install gfortran libpcre3-dev \
    xlibmesa-glu-dev libglew1.5-dev libftgl-dev \
-   libmysqlclient-dev libfftw3-dev libcfitsio-dev \
+   default-libmysqlclient-dev libfftw3-dev libcfitsio-dev \
    graphviz-dev libavahi-compat-libdnssd-dev \
    libldap2-dev python-dev libxml2-dev libkrb5-dev \
    libgsl0-dev qtwebengine5-dev
